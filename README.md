@@ -18,5 +18,5 @@ BST Trucking management aims to build an interactive dashboard to analyze six mo
 -	Created pivot tables according to the questions asked.
 -	All pivot tables were combined into one dashboard, with a slicer included to enable dynamic interaction.
 ## Dashboard 
-Screenshot 2025-08-06 103625-25.png
-![Image ALT](![image]( https://github.com/lbrownjr75-glitch/Trucking-Dashboard/blob/main/Screenshot%202025-08-06%20103625-25.png
+![image alt](https://github.com/lbrownjr75-glitch/Trucking-Dashboard/blob/41cf92ead35dc29c89b5a3692ba0b63d94c9c814/Screenshot%202025-08-06%20103625-25.png))
+
