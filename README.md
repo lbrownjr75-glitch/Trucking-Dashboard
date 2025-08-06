@@ -12,3 +12,11 @@ BST Trucking management aims to build an interactive dashboard to analyze six mo
 -	How does total fuel cost vary by month?
 -	What is our on-time delivery rate as a percentage?
 - Interactive Dashboard <a href="https://github.com/lbrownjr75-glitch/Trucking-Dashboard/blob/main/BST%20Trucking%20Fleet%20Operations.xlsx">View Dashboard</a>
+
+##Process
+-	Checked for missing values and anomalies.
+-	Ensuring data consistency and cleanliness in type, format, and values. 
+-	Created pivot tables according to the questions asked.
+-	All pivot tables were combined into one dashboard, with a slicer included to enable dynamic interaction.
+## Dashboard 
+
