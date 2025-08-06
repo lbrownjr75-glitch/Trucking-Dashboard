@@ -30,5 +30,6 @@ Our recent operational review has highlighted several critical areas impacting c
 -	Driver Performance: Two drivers have been identified as consistently underperforming in terms of cost per trip, indicating the need for targeted retraining or support.
 -	Fuel Optimization: Refueling patterns show inefficiencies, presenting an opportunity to optimize stops and reduce total fuel costs.
 -	Financial Impact: By addressing these findings through route adjustments and focused driver development, we project an estimated annual savings of $120,000.
+
 Moving forward, we recommend implementing strategic route changes and enhanced driver training programs to capitalize on these insights, improving both cost control and service reliability. These actions will not only reduce expenses but also strengthen our commitment to operational excellence and on-time delivery.
 
