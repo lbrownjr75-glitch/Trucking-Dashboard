@@ -4,11 +4,11 @@ BST Trucking management aims to build an interactive dashboard to analyze six mo
 -<a href="https://github.com/lbrownjr75-glitch/Trucking-Dashboard/blob/main/Trucking_Fleet_Operations_Report.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-•	What is the cost per mile for our fleet operations?
-•	How efficient are our vehicles in terms of miles per gallon (MPG)?
-•	What is the overall cost per trip?
-•	How does each driver perform based on average cost per trip?
-•	Which routes show the highest costs, lowest MPG, and longest average times?
-•	How does total fuel cost vary by month?
-•	What is our on-time delivery rate as a percentage?
-Interactive Dashboard 
+-	What is the cost per mile for our fleet operations?
+-	How efficient are our vehicles in terms of miles per gallon (MPG)?
+-	What is the overall cost per trip?
+-	How does each driver perform based on average cost per trip?
+-	Which routes show the highest costs, lowest MPG, and longest average times?
+-	How does total fuel cost vary by month?
+-	What is our on-time delivery rate as a percentage?
+- Interactive Dashboard <a href="https://github.com/lbrownjr75-glitch/Trucking-Dashboard/blob/main/BST%20Trucking%20Fleet%20Operations.xlsx">View Dashboard</a>
